@@ -15,6 +15,7 @@
      SideMenuManager.menuAddPanGestureToPresent(toView: self.navigationController!.navigationBar)
      SideMenuManager.menuAddScreenEdgePanGesturesToPresent(toView: self.navigationController!.view)
 */
+import UIKit
 
 @objcMembers
 open class SideMenuManager: NSObject {
